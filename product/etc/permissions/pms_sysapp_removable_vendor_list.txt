@@ -1,0 +1,10 @@
+
+ru.vk.store
+com.smartlife.nebula
+com.yandex.searchapp
+com.yandex.browser
+com.google.android.apps.docs
+com.google.android.apps.tachyon
+com.google.android.apps.photos
+com.google.android.videos
+com.transsion.compass

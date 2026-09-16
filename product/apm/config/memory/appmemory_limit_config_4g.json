@@ -1,0 +1,17 @@
+{
+  "update":20230911,
+  "ver": 2.2,
+  "enable": 1,
+  "ram": 4,
+  "default": 1024,
+  "begin": "02:00:00",
+  "end": "06:00:00",
+  "jda_enable": 1,
+  "ap": [
+    {
+      "proc": "com.transsion.camera",
+      "mem": 119,
+      "jda": -800
+    }
+  ]
+}

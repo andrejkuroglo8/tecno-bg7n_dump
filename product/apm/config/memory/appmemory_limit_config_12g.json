@@ -1,0 +1,24 @@
+
+{
+  "update":20230911,
+  "ver": 2.2,
+  "enable": 1,
+  "ram": 12,
+  "default": 3072,
+  "begin": "02:00:00",
+  "end": "06:00:00",
+  "limit": [
+    {
+      "proc": "com.facemoji.lite.transsion",
+      "mem": 2339
+    }
+  ],
+  "jda_enable": 1,
+  "ap": [
+    {
+      "proc": "com.transsion.camera",
+      "mem": 279,
+      "jda": -800
+    }
+  ]
+}

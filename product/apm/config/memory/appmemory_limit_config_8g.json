@@ -1,0 +1,31 @@
+{
+  "update":20230911,
+  "ver": 2.2,
+  "enable": 1,
+  "ram": 8,
+  "default": 3072,
+  "begin": "02:00:00",
+  "end": "06:00:00",
+  "limit": [
+    {
+      "proc": "com.shopee.id",
+      "mem": 1907
+    },
+    {
+      "proc": "com.opera.mini.native",
+      "mem": 1885
+    },
+    {
+      "proc": "com.kwai.kuaishou.video.live",
+      "mem": 1329
+    }
+  ],
+  "jda_enable": 1,
+  "ap": [
+    {
+      "proc": "com.transsion.camera",
+      "mem": 185,
+      "jda": -800
+    }
+  ]
+}
