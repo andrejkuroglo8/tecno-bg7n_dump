@@ -1,4 +1,4 @@
 *.img filter=lfs diff=lfs merge=lfs -text
 *.apk filter=lfs diff=lfs merge=lfs -text
 product/app/Maps/oat/arm64/Maps.vdex filter=lfs diff=lfs merge=lfs -text
-product/etc/easypic/*.mnn filter=lfs diff=lfs merge=lfs -text
+*.mnn filter=lfs diff=lfs merge=lfs -text
